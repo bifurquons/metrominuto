@@ -1,9 +1,10 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+![BIFURQ]({% link images/rect8103-0.png %})
 
-L'Échappée Belle est actuellement composée de 6 membres.
+📧 [bifurq@pm.me](mailto:bifurq@pm.me)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+🖼️ [https://pixelfed.fr/bifurq](https://pixelfed.fr/bifurq) 
