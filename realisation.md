@@ -3,6 +3,8 @@ title: "Réalisation"
 order: 2
 in_menu: true
 ---
+![détail]({% link images/metrminuto-detail.png %})
+
 ## Première réalisation, la version piéton
 
 En tant qu'amateur de carto et de graphisme, et très agacé par la surutilisation de la voiture au quotidien , je n'ai pas pu résister à en créer un pour ma commune.
@@ -37,7 +39,15 @@ Ainsi, au lieu d'indiquer "place du 8 mai 45", il était plus clair d'indiquer �
 
 ### Temps de trajet
 
-Concernant les temps de trajets, j'ai utilisé le site [OpenRouteService](https://maps.openrouteservice.org/) que j'apprécie pour ses isochrones. Ça a été l'occasion de corriger des erreurs de carto sur OSM : connections manquantes d'un côté de la rue à l'autre ou encore place piétonne entraînant des détours conséquents dans le calcul d'itinéraire.
+Concernant les temps de trajets, j'ai utilisé le site [OpenRouteService](https://maps.openrouteservice.org/) que j'apprécie pour ses isochrones. Ça a été l'occasion de corriger des erreurs de cartographie sur OSM : petits segments de connexions manquantes d'un côté de la rue à l'autre, entraînant des détours fantasques.
+
+![routage-orsm]({% link images/calcul-orsm.png %})
+
+Par curiosité, j'ai comparé les temps et itinéraires proposés par Google Maps. Le manque de certains chemins piétons (et encore, il en connait pas mal sur ma commune, alors que pour d'autres, c'est vraiment très pauvre) fait que ce n'est pas un outil fiable pour les modes actifs (le vélo, n'en parlons pas).
+
+Pour la même demande que la capture précédente, le temps est doublé et nous fait cheminer par la départementale.
+
+![routage-gm]({% link images/calcul-gm.png %})
 
 Je souhaitais aussi intégrer la distance en mètres. Malheureusement, le manque de place m'a fait préférer la lisibilité.
 
@@ -116,6 +126,8 @@ Je verrais bien le titre :  "*Et si vous veniez autrement ?*" illustré d'une ca
 
 J'ai concrétisé cette idée ultérieurement, et commence à démarcher différents établissements de la commune pour les y afficher.
 
+![orsm-isochrone]({% link images/orsm-iso.png %})
+> Le site [OpenRouteService](https://maps.openrouteservice.org/#/reach/Centre%20Culturel%20Jean%20Ferrat,Cabestany,France/data/55,130,32,198,15,97,4,224,38,9,96,59,2,24,5,192,166,6,113,0,184,64,38,0,232,4,224,25,128,86,1,217,76,160,26,0,88,136,13,128,14,0,25,243,105,145,105,2,0,29,83,192,136,155,14,80,97,210,32,205,23,40,0,54,105,114,52,36,210,177,22,229,242,151,172,94,147,114,1,25,138,247,152,128,57,174,34,101,201,237,178,210,165,54,135,234,24,48,23,215,128,47,40,1,109,114,24,178,243,243,64,64,1,155,195,203,162,224,129,133,66,160,2,208,3,187,35,200,3,89,34,90,243,67,32,91,160,3,234,160,2,123,243,69,225,10,251,71,102,231,153,148,3,106,26,113,176,2,234,241,32,200,1,186,166,226,145,177,179,187,185,0) et ses isochrones, un outil puissant
 
 ### Limites
 
