@@ -64,6 +64,8 @@ Ma ville n'ayant aucun élément structurant traversant (à part des départemen
 
 Restait l'habillage et le tour était joué. Je suis parti sur une couleur bleue et un panneau piéton customisé. La version vélo sera sur le même modèle, verte avec un panneau cycliste customisé.
 
+![metrominuto-stepbystep]({% link images/ezgif-4-efcea09bd5.png %})
+
 Dans un deuxième temps, lors de la réalisation du premier [**centrominuto**](https://bifurquons.github.io/metrominuto/centrominuto.html), j'ai rajouté un encadré inférieur pour vanter les bienfaits des déplacements actifs. 
 
 ### Résultat final
