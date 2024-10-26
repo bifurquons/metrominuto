@@ -1,5 +1,5 @@
 ---
-title: "*Modus Operandi*"
+title: "_Modus Operandi_"
 order: 6
 in_menu: true
 ---
