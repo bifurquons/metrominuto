@@ -76,7 +76,13 @@ Restait l'habillage et le tour était joué. Je suis parti sur une couleur bleue
 
 ![metrominuto-stepbystep]({% link images/ezgif-4-efcea09bd5.png %})
 
-Dans un deuxième temps, lors de la réalisation du premier [**centrominuto**](https://bifurquons.github.io/metrominuto/centrominuto.html), j'ai rajouté un encadré inférieur pour vanter les bienfaits des déplacements actifs. 
+Dans un deuxième temps, lors de la réalisation du premier _centrominuto_ (voir plus bas), j'ai rajouté un encadré inférieur pour lister les nombreux bénéfices des déplacements actifs sur :
+
+* la santé
+* le portefeuille
+* la qualité de l'air
+* l'apaisement de la ville
+* la pollution (les voitures électriques ne sont pas écologiques)
 
 ### Résultat final
 
@@ -100,7 +106,7 @@ De mon côté, je me suis vite rendu compte que la simple transposition du _metr
 
 L'intérêt était de montrer que le temps utile pour relier des pôles éloignés de la ville était faible, pas de devenir champion en calcul mental.
 
-Je me suis donc orienté sur le tracé d'itinéraires choisis. Ces itinéraires relient des pôles attractifs de la commune et les lotissements excentrés. Rien n'empêche de combiner différents itinéraires, notamment dans la perspective d'accéder à des pôles d'intérêt des communes avoisinantes.
+Comme eux, je me suis donc orienté sur le tracé d'itinéraires choisis. Ces itinéraires relient des pôles attractifs de la commune et les lotissements excentrés. Rien n'empêche de combiner différents itinéraires, notamment dans la perspective d'accéder à des pôles d'intérêt des communes avoisinantes.
 
 ![metrominuto-vélo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Metrominuto-cycliste-Cabestany.svg/823px-Metrominuto-cycliste-Cabestany.svg.png)
 
@@ -110,24 +116,18 @@ Je me suis donc orienté sur le tracé d'itinéraires choisis. Ces itinéraires 
 
 ### Simplification de la lecture de carte
 
-Si j'aime beaucoup le principe du *metrominuto*, je me suis fait la réflexion en le réalisant que ce n'est pas un outil assez direct pour un simple curieux. Il faut prendre le temps de le comprendre, de tracer son itinéraire et de faire les calculs, qui au final, donne plus un ordre d'idée qu'une durée exacte.
+Si j'aime beaucoup le principe du *metrominuto*, je me suis fait la réflexion en le réalisant que ce n'est pas un outil assez direct pour un simple curieux. Il faut prendre le temps de le comprendre, de tracer son itinéraire et de faire les calculs, et qui au final, donne plus un ordre d'idée qu'une durée exacte.
 
-Pour engager les gens dans un report modal, on pourrait donc proposer à chaque endroit stratégique de la commune une carte isochrone centrée là où on se trouve affichant les zones accessibles en 5, 10, 15 et 20 minutes. Cela permettrait en 1 coup d'œil de se situer et de repérer dans quel périmètre de temps notre maison se trouve.
-
-J'ai décidé d'appelé cette carte _centrominuto_ en référence au _metrominuto_ et au point central des cartes isochrones.
-
-Je verrais bien le titre :  "*Et si vous veniez autrement ?*" illustré d'une carte isochrone piéton et d'une autre vélo avec en 3e partie les différents bénéfices des déplacements doux sur :
-
-* la santé
-* le portefeuille
-* la qualité de l'air
-* l'apaisement de la ville
-* la pollution (les voitures électriques ne sont pas écologiques)
-
-J'ai concrétisé cette idée ultérieurement, et commence à démarcher différents établissements de la commune pour les y afficher.
+Pour solliciter les gens vers un report modal, on pourrait donc proposer à chaque endroit stratégique de la commune une carte isochrone centrée là où on se trouve affichant les zones accessibles en 5, 10, 15 et 20 minutes. Cela permettrait en 1 coup d'œil de se situer et de repérer dans quel périmètre de temps notre maison se trouve.
 
 ![orsm-isochrone]({% link images/orsm-iso.png %})
 > Le site [OpenRouteService](https://maps.openrouteservice.org/#/reach/Centre%20Culturel%20Jean%20Ferrat,Cabestany,France/data/55,130,32,198,15,97,4,224,38,9,96,59,2,24,5,192,166,6,113,0,184,64,38,0,232,4,224,25,128,86,1,217,76,160,26,0,88,136,13,128,14,0,25,243,105,145,105,2,0,29,83,192,136,155,14,80,97,210,32,205,23,40,0,54,105,114,52,36,210,177,22,229,242,151,172,94,147,114,1,25,138,247,152,128,57,174,34,101,201,237,178,210,165,54,135,234,24,48,23,215,128,47,40,1,109,114,24,178,243,243,64,64,1,155,195,203,162,224,129,133,66,160,2,208,3,187,35,200,3,89,34,90,243,67,32,91,160,3,234,160,2,123,243,69,225,10,251,71,102,231,153,148,3,106,26,113,176,2,234,241,32,200,1,186,166,226,145,177,179,187,185,0) et ses isochrones, un outil puissant
+
+J'ai concrétisé cette idée ultérieurement, et commence à démarcher différents établissements de la commune pour les y afficher.
+
+J'ai décidé d'appelé ce type de carte _centrominuto_ en référence au _metrominuto_ et au point central des cartes isochrones.
+
+[Les différents *centrominutos*](https://bifurquons.github.io/metrominuto/centrominuto.html)
 
 ### Limites
 
