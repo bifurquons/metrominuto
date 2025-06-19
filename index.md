@@ -13,7 +13,7 @@ Bifurquons !
 
 Vous trouverez sur cet espace différentes création en lien avec le report modal et les mobilités durables.
 
-Ici, mes réalisations de _metrominutos_ pour la commune de Cabestany
+Ici, mes réalisations de _metrominutos_ pour la commune de Cabestany.
 
 ![METROMINUTO]({% link images/metrominuto.png %}) 
 
@@ -47,4 +47,3 @@ Questionnaire permettant de vérifier la qualité globale d’un aménagement cy
 Plateforme cartographique de remontée des soucis de déplacements à vélo (en cours de construction)
 </p> 
 <a href="https://veillo.gogocarto.fr/" class="bouton">VEILLO</a> 
-Questionnaire permettant de vérifier la qualité globale d'un aménagement cyclable 
