@@ -21,17 +21,30 @@ Ici, mes réalisations de _metrominutos_ pour la commune de Cabestany
 
 -----
 
-Autres créations :
+&nbsp;
+# Autres créations
 
-![MOBISCORE]({% link images/Mobi-Score4.png %})
+&nbsp;
 
-Le [Mobi-Score](https://bifurquons.github.io/mobiscore/)
+![MobiScore]({% link images/mobiscore.png %})
+<p class="encart">
+Enquête pour évaluer les politiques de mobilités durables d’un territoire
+</p>
+<a href="https://bifurquons.github.io/mobiscore/" class="bouton">MobiScore</a>
 
-Enquête pour évaluer les politiques de mobilités durables d'un territoire
-
+&nbsp;
 
 ![CASQ]({% link images/g1064.png %})
+<p class="encart">
+Questionnaire permettant de vérifier la qualité globale d’un aménagement cyclable
+</p>
+<a href="https://bifurquons.github.io/casq" class="bouton">CASQ</a>
 
-Le [CASQ](https://bifurquons.github.io/casq/)
+&nbsp;
 
+![VEILLO]({% link images/barre-menu.png %})
+<p class="encart">
+Plateforme cartographique de remontée des soucis de déplacements à vélo (en cours de construction)
+</p> 
+<a href="https://veillo.gogocarto.fr/" class="bouton">VEILLO</a> 
 Questionnaire permettant de vérifier la qualité globale d'un aménagement cyclable 
