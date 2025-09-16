@@ -3,6 +3,7 @@ title: "Bompas"
 order: 7
 in_menu: true
 ---
+<div class="encart">
 <div id="legend" style="
         position: fixed;
         bottom: 70px; right: 20px; width: 320px; min-height: 300px;
@@ -74,3 +75,4 @@ in_menu: true
     
     
             <div class="folium-map" id="map_47ff86c75c59e914af23eed7e70bae87" ></div> 
+</div> 
